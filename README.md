@@ -22,7 +22,7 @@
 <!-- Tech stack icons -->
 <h2 align="center">Technologies that I know 👨🏻‍💻</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,figma,firebase,github,html,js,jest,threejs,netlify,linux,md,materialui,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=14" alt="list of technology icons" />
     </a>
