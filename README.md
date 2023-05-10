@@ -1,16 +1,20 @@
 <h1 align="center"><b>Hi , I'm Federico Nicoletti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Fullstack Developer from Buenos Aires, Argentina</h3>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<br>
+- 🔭 I’m currently working in some individual projects
+
+- 🙋🏻‍♂️ I am a skilled full-stack JavaScript developer who has a strong passion for Boca Juniors and swimming. I have a treasured feline companion named Vanilla, and I enjoy creating user interfaces that provide an exceptional user experience.
+
+- 🤝 I am available to work together.
+
+- 🌱 I’m currently learning Threejs and Italian.
+
+- 📝 I regularly write poetry on my books and [this blog](https://sinfiltroalalma.blogspot.com/)
+
+- 💬 Ask me about anything on [LinkedIn](https://www.linkedin.com/in/federico-nicoletti/)
+
+- 📫 How to reach me **federiconicoletti@outlook.com**
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
