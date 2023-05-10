@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Fullstack Developer from Buenos Aires, Argentina</h3>
 
 <h1><img align= "left" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/> About me</h1>
+<br>
+
 - 🔭 I’m currently working in some individual projects
 
 - 🙋🏻‍♂️ I am a skilled full-stack JavaScript developer who has a strong passion for Boca Juniors and swimming. I have a treasured feline companion named Vanilla, and I enjoy creating user interfaces that provide an exceptional user experience.
