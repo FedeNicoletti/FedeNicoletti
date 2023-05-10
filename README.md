@@ -1,6 +1,9 @@
 <h1 align="center"><b>Hi, I'm Federico Nicoletti</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
 <h3 align="center">A passionate Fullstack Developer from Buenos Aires, Argentina</h3>
 
+
+<img align="center" width="600" src="https://media0.giphy.com/media/tIVW47Owi8UoOc8cj9/giphy.gif?cid=6c09b9522e016ee7dd9812517904beccd942fbb62df80de8&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g" alt="animated call to action">
+
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="animated coder cat">
 
 <h1>About me</h1>
