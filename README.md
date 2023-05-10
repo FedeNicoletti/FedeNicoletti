@@ -4,9 +4,9 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 <h1> About me</h1>
 
-- 🔭 I’m currently working in some individual projects
-
 - 🙋🏻‍♂️ I am a skilled full-stack JavaScript developer who has a strong passion for Boca Juniors and swimming. I have a treasured feline companion named Vanilla, and I enjoy creating user interfaces that provide an exceptional user experience.
+
+- 🔭 I’m currently working in some individual projects
 
 - 🤝 I am available to work together.
 
@@ -18,6 +18,10 @@
 
 - 📫 You can shoot me an email at **federiconicoletti@outlook.com** I'll try to respond as soon as I can.
 <!--tech stack icons-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,figma,firebase,github,html,js,jest,threejs,netlify,linux,md,materialui,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=14" />
