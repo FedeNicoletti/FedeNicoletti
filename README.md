@@ -24,6 +24,6 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,figma,firebase,github,html,js,jest,threejs,netlify,linux,md,materialui,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=24" alt="list of technology icons" />
+      <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,figma,firebase,github,html,js,jest,threejs,netlify,linux,md,materialui,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=20" alt="list of technology icons" />
     </a>
 </div>
