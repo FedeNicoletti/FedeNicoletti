@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Federico Nicoletti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Fullstack Developer from Buenos Aires, Argentina</h3>
 
-<h1><img align= "left" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/> About me</h1>
-<br/>
+<img align= "left" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<h1> About me</h1>
 
 - 🔭 I’m currently working in some individual projects
 
