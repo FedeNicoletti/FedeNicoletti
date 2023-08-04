@@ -20,6 +20,8 @@
 
 - 💬 Ask me about anything on [LinkedIn](https://www.linkedin.com/in/federico-nicoletti/).
 
+- 👉 Take a look at my [Portfolio](https://federiconicoletti.com).
+
 - 📫 You can shoot me an email at **federiconicoletti@outlook.com**. I'll try to respond as soon as I can.
 
 <!-- Tech stack icons -->
