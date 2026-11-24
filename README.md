@@ -1,34 +1,25 @@
-<h1 align="center"><b>Hi, I'm Federico Nicoletti</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
-<h3 align="center">A passionate Fullstack Developer from Buenos Aires, Argentina</h3>
+# Hi, I'm Federico Nicoletti 👋
 
+**Software Engineer → Data Engineering** · Argentina · Open to remote
 
-<img align="center" width="600" src="https://media0.giphy.com/media/tIVW47Owi8UoOc8cj9/giphy.gif?cid=6c09b9522e016ee7dd9812517904beccd942fbb62df80de8&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g" alt="animated call to action">
+I build production systems where the database is the core of the product. 4+ years designing PostgreSQL schemas, optimizing queries and keeping data reliable through automated testing. Now focused on data engineering: SQL, Python, ETL/ELT pipelines and data modeling.
 
-<img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="animated coder cat">
+### What I've shipped
 
-<h1>About me</h1>
+- 🗄️ **PostgreSQL schemas for a multi-tenant SaaS:** 55+ versioned migrations and role-based access per organization
+- ⚡ **Query optimization:** a critical database check went from **47.5 s to 0.18 s**
+- 🔌 **Data-heavy backends:** 130+ API routes (Node.js, TypeScript) for billing, messaging, scheduling and nutrition tracking
+- ✅ **Data quality:** 1,500+ automated tests running against a real PostgreSQL database
+- 🧪 **QA at Accenture:** test design and regression cycles for an internal contract management platform
 
-- 🙋🏻‍♂️ I am a skilled full-stack JavaScript developer who has a strong passion for Boca Juniors and swimming. I have a treasured feline companion named Vanilla, and I enjoy creating user interfaces that provide an exceptional user experience.
+### Stack
 
-- 🔭 I’m currently working on some individual projects.
+**Data:** SQL · PostgreSQL · Python · MongoDB · Data modeling · ETL/ELT · Data quality<br>
+**Backend:** Node.js · TypeScript · Express · Next.js · REST APIs<br>
+**Tooling:** Git · Vitest · Playwright · Azure DevOps · CI
 
-- 🤝 I am available to work collaboratively.
+### Contact
 
-- 🌱 I’m currently learning Three.js and Italian.
+🌐 [federiconicoletti.me](https://federiconicoletti.me) · 💼 [LinkedIn](https://www.linkedin.com/in/federico-nicoletti) · 📫 federiconicoletti@outlook.com
 
-- ✍️ In my free time, I write poetry in my books and on [my blog](https://sinfiltroalalma.blogspot.com/).
-
-- 💬 Ask me about anything on [LinkedIn](https://www.linkedin.com/in/federico-nicoletti/).
-
-- 👉 Take a look at my [Portfolio](https://federiconicoletti.com).
-
-- 📫 You can shoot me an email at **federiconicoletti@outlook.com**. I'll try to respond as soon as I can.
-
-<!-- Tech stack icons -->
-<h2 align="center">Technologies that I know 👨🏻‍💻</h2>
-
-<div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,figma,firebase,github,html,js,jest,threejs,netlify,linux,md,materialui,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=12" alt="list of technology icons" />
-    </a>
-</div>
+🇦🇷 Spanish (native) · 🇬🇧 English (B2)
